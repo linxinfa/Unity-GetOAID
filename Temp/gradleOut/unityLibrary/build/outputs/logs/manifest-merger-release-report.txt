@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:1-8:1532
+INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:1-8:1532
+INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:1-8:1532
+INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:1-8:1532
+INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:1-8:1532
+INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:1-8:1532
+INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:1-8:1532
+	package
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:70-98
+		INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:1-8:1532
+		INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:99-145
+	android:versionCode
+		INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:1-8:1532
+		INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:4:3-77
+	android:name
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:4:20-74
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:3-73
+	android:name
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:20-70
+uses-permission#android.permission.INTERNET
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:6:3-65
+	android:name
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:6:20-62
+uses-permission#com.asus.msa.SupplementaryDID.ACCESS
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:22-73
+application
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:76-1098
+activity#com.linxinfa.oaidtest.MainActivity
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:89-779
+	android:screenOrientation
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:191-228
+	android:launchMode
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:229-260
+	android:hardwareAccelerated
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:443-478
+	android:configChanges
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:261-442
+	android:theme
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:149-190
+	android:name
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:99-148
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:479-622
+action#android.intent.action.MAIN
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:494-546
+	android:name
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:502-543
+category#android.intent.category.LAUNCHER
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:546-606
+	android:name
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:556-603
+meta-data#unityplayer.UnityActivity
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:622-697
+	android:value
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:674-694
+	android:name
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:633-673
+meta-data#android.notch_support
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:697-768
+	android:value
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:745-765
+	android:name
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:708-744
+meta-data#unity.splash-mode
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:779-843
+	android:value
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:823-840
+	android:name
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:790-822
+meta-data#unity.splash-enable
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:843-912
+	android:value
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:889-909
+	android:name
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:854-888
+meta-data#notch.config
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:912-988
+	android:value
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:951-985
+	android:name
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:923-950
+meta-data#unity.build-id
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:988-1084
+	android:value
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:1029-1081
+	android:name
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:999-1028
+uses-feature#0x00030000
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:1098-1147
+	android:glEsVersion
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:1112-1144
+uses-feature#android.hardware.vulkan.version
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:1147-1235
+	android:required
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:1208-1232
+	android:name
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:1161-1207
+uses-feature#android.hardware.touchscreen
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:1235-1320
+	android:required
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:1293-1317
+	android:name
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:1249-1292
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:1320-1416
+	android:required
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:1389-1413
+	android:name
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:1334-1388
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:1416-1521
+	android:required
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:1494-1518
+	android:name
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:1430-1493
+uses-sdk
+INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from E:\UnityProject\UnityGetOAID\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
